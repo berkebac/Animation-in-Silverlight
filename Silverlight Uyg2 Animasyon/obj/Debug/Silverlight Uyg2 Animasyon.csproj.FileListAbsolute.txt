@@ -1,0 +1,12 @@
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\Bin\Debug\Silverlight Uyg2 Animasyon.dll
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\Bin\Debug\Silverlight Uyg2 Animasyon.pdb
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\Bin\Debug\AppManifest.xaml
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\Bin\Debug\Silverlight Uyg2 Animasyon.xap
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\Bin\Debug\Silverlight_Uyg2_AnimasyonTestPage.html
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\obj\Debug\Silverlight Uyg2 Animasyon.csprojResolveAssemblyReference.cache
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\obj\Debug\App.g.cs
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\obj\Debug\MainPage.g.cs
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\obj\Debug\Silverlight Uyg2 Animasyon.g.resources
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\obj\Debug\Silverlight Uyg2 Animasyon.dll
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\obj\Debug\Silverlight Uyg2 Animasyon.pdb
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg2 Animasyon\Silverlight Uyg2 Animasyon\obj\Debug\XapCacheFile.xml
